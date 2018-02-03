@@ -8,6 +8,7 @@ DeepLearning
     - [深度学习简介 Introduction to Deep Learning](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/Introduction%20to%20Deep%20Learning.ipynb)
     - [神经网络基础 Neural Network Basics](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/Neural%20Network%20Basics.ipynb)
     - [浅层神经网络 Shallow Neural Network](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/Shallow%20Neural%20Network.ipynb)
+    - [深度神经网络 Deep Neural Network](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/Deep%20Neural%20Network.ipynb)
 
 2. 提升深度神经网络（Improving Deep Neural Network）
 
