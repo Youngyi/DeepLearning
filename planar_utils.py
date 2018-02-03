@@ -1,6 +1,8 @@
-import sklearn.datasets
-import numpy as np
 import matplotlib.pyplot as plt
+import numpy as np
+import sklearn
+import sklearn.datasets
+import sklearn.linear_model
 
 
 def plot_decision_boundary(model, X, y):
@@ -30,7 +32,7 @@ def sigmoid(x):
     Return:
     s -- sigmoid(x)
     """
-    s = 1/(1+np.exp(-x))
+    s = 1 / (1 + np.exp(-x))
     return s
 
 
@@ -49,8 +51,10 @@ def load_planar_dataset():
         r = a * np.sin(4 * t) + np.random.randn(N) * 0.2  # radius
         X[ix] = np.c_[r * np.sin(t), r * np.cos(t)]
         Y[ix] = j
+
     X = X.T
     Y = Y.T
+
     return X, Y
 
 
