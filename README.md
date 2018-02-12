@@ -11,7 +11,7 @@ DeepLearning
     - [深度神经网络 Deep Neural Network](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/Deep%20Neural%20Network.ipynb)
 
 2. 提升深度神经网络（Improving Deep Neural Network）
-    - [深度学习的使用](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/Practical%20aspects%20of%20Deep%20Learning.ipynb)
+    - [深度学习的使用 Practical aspects of Deep Learning](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/Practical%20aspects%20of%20Deep%20Learning.ipynb)
 
 3. 结构化的机器学习项目（Structured Maching Learning Projects）
 
