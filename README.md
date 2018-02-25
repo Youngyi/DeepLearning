@@ -13,6 +13,7 @@ DeepLearning
 2. 提升深度神经网络（Improving Deep Neural Network）
     - [深度学习的使用 Practical aspects of Deep Learning](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/Practical%20aspects%20of%20Deep%20Learning.ipynb)
     - [优化算法 Optimization algorithms](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/Optimization%20algorithms.ipynb)
+    - [超参调节、批量标准化、编程框架 Hyperparameter tuning, Batch Normalization and Programming Frameworks](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/Hyperparameter%20tuning%2C%20Batch%20Normalization%20and%20Programming%20Frameworks.ipynb)
 
 3. 结构化的机器学习项目（Structured Maching Learning Projects）
 
