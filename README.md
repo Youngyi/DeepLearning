@@ -15,7 +15,8 @@ DeepLearning
     - [优化算法 Optimization algorithms](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/Optimization%20algorithms.ipynb)
     - [超参调节、批量标准化、编程框架 Hyperparameter tuning, Batch Normalization and Programming Frameworks](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/Hyperparameter%20tuning%2C%20Batch%20Normalization%20and%20Programming%20Frameworks.ipynb)
 
-3. 结构化的机器学习项目（Structured Maching Learning Projects）
+3. 结构化机器学习项目（Structuring Machine Learning Projects）
+    - [机器学习策略（1） ML Strategy(1)](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/ML%20Strategy%20%281%29.ipynb)
 
 4. 卷积神经网络（Convolutional Neural Networks）
 
