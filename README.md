@@ -17,6 +17,7 @@ DeepLearning
 
 3. 结构化机器学习项目（Structuring Machine Learning Projects）
     - [机器学习策略（1） ML Strategy(1)](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/ML%20Strategy%20%281%29.ipynb)
+    - [机器学习策略（2） ML Strategy(2)](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/ML%20Strategy%20%282%29.ipynb)
 
 4. 卷积神经网络（Convolutional Neural Networks）
 
