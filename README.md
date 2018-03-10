@@ -20,6 +20,7 @@ DeepLearning
     - [机器学习策略（2） ML Strategy(2)](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/ML%20Strategy%20%282%29.ipynb)
 
 4. 卷积神经网络（Convolutional Neural Networks）
+    - [卷积神经网络基础 Foundations of Convolutional Neural Networks](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/Foundations%20of%20Convolutional%20Neural%20Networks.ipynb)
 
 5. 序列模型（Sequence Models）
 
