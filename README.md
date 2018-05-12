@@ -26,6 +26,7 @@ DeepLearning
     - [特殊应用：人脸识别&神经风格迁移 Special Application: Face Recognition & Neural Style Transfer](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/Special%20applications%20-%20Face%20recognition%20%26%20Neural%20style%20transfer.ipynb)
 
 5. 序列模型（Sequence Models）
+    - [循环神经网络 Recurrent Neural Networks](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/Recurrent%20Neural%20Networks.ipynb)
 
 ### 参考资料
 1. [DeepLearning.ai](https://www.deeplearning.ai/)
