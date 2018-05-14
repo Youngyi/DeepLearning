@@ -27,6 +27,7 @@ DeepLearning
 
 5. 序列模型（Sequence Models）
     - [循环神经网络 Recurrent Neural Networks](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/Recurrent%20Neural%20Networks.ipynb)
+    - [自然语言处理&词嵌入 Natural Language Processing & Word Embeddings](http://nbviewer.jupyter.org/github/reata/DeepLearning/blob/master/Natural%20Language%20Processing%20%26%20Word%20Embeddings.ipynb)
 
 ### 参考资料
 1. [DeepLearning.ai](https://www.deeplearning.ai/)
