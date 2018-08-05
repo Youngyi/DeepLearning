@@ -105,3 +105,4 @@ ENV/
 
 output/
 pretrained-model/
+weights/
